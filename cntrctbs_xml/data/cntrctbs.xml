@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+   <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+        </title>
+      </titleStmt>
+      <editionStmt>
+       <edition></edition>
+      </editionStmt>
+      <extent></extent>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <notesStmt>
+        <note></note>
+      </notesStmt>
+      <sourceDesc>
+        <scriptStmt>
+          <p></p>
+        </scriptStmt>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+
+    </profileDesc>
+    <revisionDesc>
+
+    </revisionDesc>
+   </teiHeader> 
+   <text>
+     <front>
+
+     </front>
+     <body>
+       <div type="section" n="1">
+	 <head>
+	   <w lemma="" pos="">DISPVTATIO</w>
+	   <w lemma="" pos="">LXIII</w>.   
+	 </head>
+	 <head>
+	   <w lemma="" pos="">De</w>
+	   <w lemma="" pos="">pretio</w>
+	   <w lemma="" pos="">rerum</w>
+	   <w lemma="" pos="">vendibilium</w><pc type="period">.</pc>
+	 </head>
+	 <p>
+	   <s>
+	     <w lemma="" pos="">Materiam</w>
+	     <w lemma="" pos="">huius</w>
+	     <w lemma="" pos="">contractus</w>
+	     <w lemma="" pos="">esse</w>
+	     <w lemma="" pos="">diximus</w>
+	     <w lemma="" pos="">ex</w>
+	     <w lemma="" pos="">parte</w>
+	     <w lemma="" pos="">vendentis</w>
+	     <w lemma="" pos="">rem</w>
+	     <w lemma="" pos="">vendibilem</w><pc type="comma">,</pc>
+	     <w lemma="" pos="">seu</w>
+	     <w lemma="" pos="">mercem</w><pc type="comma">,</pc>
+	     <w lemma="" pos="">cuius</w>
+	     <w lemma="" pos="">dominium</w>
+	     <w lemma="" pos="">in</w>
+	     <w lemma="" pos="">emptorem</w>
+	     <w lemma="" pos="">transfert</w><pc type="semicolon">;</pc>
+	     <w lemma="" pos="">ex</w>
+	     <w lemma="" pos="">parte</w>
+	     <w lemma="" pos="">vero</w>
+	     <w lemma="" pos="">emptoris</w>
+	     <w lemma="" pos="">pretium</w>
+	     <w lemma="" pos="">mercis</w><pc type="comma">,</pc>
+	     <w lemma="" pos="">cuius</w>
+	     <w lemma="" pos="">dominium</w>
+	     <w lemma="" pos="">pariter</w>
+	     <w lemma="" pos="">in</w>
+	     <w lemma="" pos="">venditorem</w>
+	     <w lemma="" pos="">transfundit</w><pc type="colon">:</pc>
+	     <w lemma="" pos="">diximus</w>
+	     <w lemma="" pos="">De</w>
+	     <w lemma="" pos="">merce</w><pc type="comma">,</pc>
+	     <w lemma="" pos="">seu</w>
+	     <w lemma="" pos="">re</w>
+	     <w lemma="" pos="">vendibili</w><pc type="comma">,</pc>
+	     <w lemma="" pos="">dicamus</w>
+	     <w lemma="" pos="">modo</w>
+	     <w lemma="" pos="">de</w>
+	     <w lemma="" pos="">pretio</w><pc type="semicolon">;</pc>
+	     <w lemma="" pos="">quia</w>
+	     <w lemma="" pos="">tota</w>
+	     <w lemma="" pos="">huius</w>
+	     <w lemma="" pos="">contractus</w>
+	     <w lemma="" pos="">iustitia</w>
+	     <w lemma="" pos="">consistit</w>
+	     <w lemma="" pos="">in</w>
+	     <w lemma="" pos="">pretio</w>
+	     <w lemma="" pos="">cum</w>
+	     <w lemma="" pos="">merce</w>
+	     <w lemma="" pos="">coaequando</w><pc type="period">.</pc>
+	   </s>
+	   <s>
+	     <w lemma="" pos="">Ita</w>
+	     <w lemma="" pos="">vt</w>
+	     <w lemma="" pos="">valor</w>
+	     <w lemma="" pos="">mercis</w><pc type="comma">,</pc>
+	     <w lemma="" pos="">et</w>
+	     <w lemma="" pos="">pretii</w>
+	     <w lemma="" pos="">vnus</w><pc type="comma">,</pc>
+	     <w lemma="" pos="">idemque</w>
+	     <w lemma="" pos="">fit</w><pc type="period">.</pc>
+	   </s>
+	   <s>
+	     <w lemma="" pos="">Defudabit</w>
+	     <w lemma="" pos="">ergo</w>
+	     <w lemma="" pos="">huius</w>
+	     <w lemma="" pos="">disputationis</w>
+	     <w lemma="" pos="">labor</w>
+	     <w lemma="" pos="">hoc</w>
+	     <w lemma="" pos="">iusto</w>
+	     <w lemma="" pos="">pretio</w>
+	     <w lemma="" pos="">explicando</w><pc type="comma">,</pc>
+	     <w lemma="" pos="">et</w>
+	     <w lemma="" pos="">cum</w>
+	     <w lemma="" pos="">re</w>
+	     <w lemma="" pos="">venali</w>
+	     <w lemma="" pos="">coaequando</w><pc type="period">.</pc>
+	   </s>
+	 </p>
+	 <div type="subsection" n="1">
+
+	 </div>
+	 <div type="subsection" n="2">
+
+	 </div>
+       </div>
+     </body>
+     <back>
+     </back>
+   </text>
+</TEI>
