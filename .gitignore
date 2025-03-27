@@ -1,0 +1,9 @@
+.vscode
+node_modules
+package-lock.json
+package.json
+cntrctbs_es/cntrctbs.aux
+cntrctbs_es/cntrctbs.fdb_latexmk
+cntrctbs_es/cntrctbs.fls
+cntrctbs_es/cntrctbs.log
+cntrctbs_es/cntrctbs.synctex.gz
